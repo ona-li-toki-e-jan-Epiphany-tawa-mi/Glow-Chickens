@@ -2,7 +2,7 @@
 
 # Glow Chickens
 
-A data pack for Minecraft 1.19 (but will probably work with 1.13+) that allows you to feed glowstone dust to chickens (by dropping the ites onto them) to make them glow for 3 minutes.
+A data pack for Minecraft 1.19 (but will probably work with 1.15+) that allows you to feed glowstone dust to chickens (by dropping the items onto them) to make them glow for 3 minutes.
 
 ## Installation
 
@@ -23,6 +23,10 @@ To uninstall, you first need to run this command:
 ```
 
 After that, remove the datapack from your world's datapacks folder before reloading.
+
+## Links
+
+- [Planet Minecraft Page](https://www.planetminecraft.com/data-pack/glow-chickens "Glow Chickens on Planet Minecraft")
 
 ## Screenshots
 
