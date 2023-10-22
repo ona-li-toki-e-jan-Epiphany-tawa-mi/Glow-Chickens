@@ -1,5 +1,7 @@
 ![logo](logo.png)
 
+**!!NOTICE!!:** I have decided to abandon Minecraft in favor of the FOSS Minetest ([https://www.minetest.net](https://www.minetest.net "Minetest website")). As such, this project will no longer be maintained or developed.
+
 # Glow Chickens
 
 A data pack for Minecraft 1.19 (but will probably work with 1.15+) that allows you to feed glowstone dust to chickens (by dropping the items onto them) to make them glow for 3 minutes.
