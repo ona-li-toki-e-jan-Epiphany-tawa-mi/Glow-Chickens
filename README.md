@@ -26,10 +26,6 @@ To uninstall, you first need to run this command:
 
 After that, remove the datapack from your world's datapacks folder before reloading.
 
-## Links
-
-- [Planet Minecraft Page](https://www.planetminecraft.com/data-pack/glow-chickens "Glow Chickens on Planet Minecraft")
-
 ## Screenshots
 
 ![feeding a chicken glowstone](screenshots/feeding_glowstone.png)
