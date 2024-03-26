@@ -1,16 +1,23 @@
 ![logo](logo.png)
 
-**!!NOTICE!!:** I have decided to abandon Minecraft in favor of the FOSS Minetest ([https://www.minetest.net](https://www.minetest.net "Minetest website")). As such, this project will no longer be maintained or developed.
+**!!NOTICE!!:** I have decided to abandon Minecraft in favor of the FOSS
+Minetest (https://www.minetest.net). As such, this project will no longer be
+maintained or developed.
 
 # Glow Chickens
 
-A data pack for Minecraft 1.19 (but will probably work with 1.15+) that allows you to feed glowstone dust to chickens (by dropping the items onto them) to make them glow for 3 minutes.
+A data pack for Minecraft 1.19 (but will probably work with 1.15+) that allows
+you to feed glowstone dust to chickens (by dropping the items onto them) to make
+them glow for 3 minutes.
 
 ## Installation
 
-Grab a version from [RELEASES](https://github.com/ona-li-toki-e-jan-Epiphany-tawa-mi/Glow-Chickens/releases "Glow Chickens Releases Page") and place it inside your world's datapacks folder. [See for more information.](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack "A Minecraft Wiki tutorial on installing data packs")
+Download the data pack folder from the git repository and place it inside your
+world's datapacks folder. See for more information:
+https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack
 
-The pack will automatically finish installation on world load, but you can force it using (recommended if updating pack):
+The pack will automatically finish installation on world load, but you can force
+it using (recommended if updating pack):
 
 ```text
 /function glwchckns:install/initialize
@@ -24,7 +31,8 @@ To uninstall, you first need to run this command:
 /function glwchckns:install/uninstall
 ```
 
-After that, remove the datapack from your world's datapacks folder before reloading.
+After that, remove the datapack from your world's datapacks folder before
+reloading.
 
 ## Screenshots
 
